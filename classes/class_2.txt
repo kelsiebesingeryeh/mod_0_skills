@@ -1,0 +1,15 @@
+class Pizza
+
+Attributes:
+1. toppings: (array)
+2. crust: (string)
+3. sauce: (string)
+4. size: (integer)
+5. has_baked: (boolean)
+
+Methods:
+1. add_toppings (adds another topping to the toppings array)
+2. change_crust (changes the crust of the pizza)
+3. change_sauce (changes the sauce of the pizza)
+4. increase_size (increases the size of the pizza by 6)
+5. has_baked (has the pizza been baked)
