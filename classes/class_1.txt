@@ -1,0 +1,15 @@
+class Chair
+
+Attributes:
+1. height (integer)
+2. has_arm_rests (boolean)
+3. material (string)
+4. depth (integer)
+5. color (string)
+
+Methods:
+1. adjust_height (increase or decrease the height of the chair)
+2. has_arm_rests (does the chair have arm rests)
+3. change_material (changes the material of the chair)
+4. add_depth (adds 1 to the depth of the chair)
+5. change_color (changes the color of the chair)
