@@ -1,0 +1,15 @@
+Linger's Restaurant Chair
+
+Attributes:
+1. height: 24
+2. has_arm_rests: false
+3. material: "leather"
+4. depth: 12
+5. color: "black"
+
+Method Results:
+1. adjust_height: height = 30
+2. has_arm_rests: has_arm_rests = false
+3. change_material: material = "wood"
+4. add_depth: depth = 13
+5. change_color: color = "brown"
