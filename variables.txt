@@ -1,0 +1,16 @@
+var food = "pizza"
+
+var is_delicious = true
+
+var food = "cheese"
+
+var num2 = 5
+
+var num7 = 10
+
+var quotient = num7 / num2
+
+var songs = ["Rockstar", "Blinding Lights", "Roses", "Savage"]
+songs.shift()
+
+var pizzaLength = food.length
