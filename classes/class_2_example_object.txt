@@ -1,0 +1,15 @@
+Kelsie's Blue Pan Pizza
+
+Attributes:
+1. toppings: ["mushroom", "tomato", "spinach"]
+2. crust: "deep dish"
+3. sauce: "tomato"
+4. size: 18
+5. has_baked: true
+
+Method Results:
+1. add_toppings: toppings = ["mushroom", "tomato", "spinach", "onion"]
+2. change_crust: crust = "thin"
+3. change_sauce: sauce = "white"
+4. increase_size: size = 24
+5. has_baked: has_baked = true
